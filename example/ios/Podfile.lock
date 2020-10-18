@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - storage (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - storage (from `.symlinks/plugins/storage/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  storage:
+    :path: ".symlinks/plugins/storage/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  storage: ca15534da1e5e481e5e1030bed597696a2e0c3a2
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.9.1
